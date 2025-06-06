@@ -3,9 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=404nik&color=brightgreen)
 
 ## 🚀 About Me
-I'm a passionate software engineer currently working full-time at Mindgate Solutions Pvt Ltd
-
-![Mindgate Solutions](https://i.ibb.co/NNT7w65/image-removebg-preview.png)
+I'm a passionate software engineer currently working full-time at Simpl Technologies 
+![Simpl Technologies](https://i.ibb.co/NNT7w65/image-removebg-preview.png)
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikhil_unavekar/)
