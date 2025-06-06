@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 I'm a passionate software engineer currently working full-time at Simpl Technologies 
-![Simpl Technologies](https://i.ibb.co/NNT7w65/image-removebg-preview.png)
+![Simpl Technologies](https://ibb.co/k6kQ9ybr)
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikhil_unavekar/)
