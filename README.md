@@ -26,6 +26,7 @@ B.Tech in Computer Science & Engineering from IIT Delhi (2024). I enjoy building
 ![Apache Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
 ![Apache Flink](https://img.shields.io/badge/-Flink-000?&logo=apacheflink&logoColor=E6526F)
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-000?&logo=apacheairflow&logoColor=017CEE)
+![Databricks](https://img.shields.io/badge/-Databricks-000?&logo=databricks&logoColor=FF3621)
 
 **Databases & Caching**
 
